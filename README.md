@@ -8,7 +8,10 @@
 
 ## Development setup
 
-Used Spring MVC, Spring Data, Spring Security, Spring REST, Spring Web Flow, Hibernate, Angular JS, JSP, Bootstrap and used H2 Database
+Used Spring MVC, Spring Data, Spring Security, Spring REST, Spring Web Flow, Hibernate, Angular JS, JSP, Bootstrap and used H2 Database.
+
+* Admin can add/delete products to inventory.
+* Users can add items to cart and checkout
 
 
 ## Release History
